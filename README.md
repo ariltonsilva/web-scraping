@@ -11,7 +11,7 @@ Este repositório contém um script em Python que utiliza o Selenium para automa
 ## Requisitos
 Antes de rodar o script, certifique-se de que você tem os seguintes componentes instalados:
 
-- Python 3.x
+- Python 3.12
 - Selenium
 - WebDriver do Chrome (compatível com a versão do Chrome instalada)
 
